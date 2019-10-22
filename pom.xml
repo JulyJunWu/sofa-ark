@@ -8,9 +8,10 @@
     <artifactId>sofa-ark</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>ws-utils</module>
+<!--        <module>ws-utils</module>
         <module>ws-service-one</module>
-        <module>ws-service-two</module>
+        <module>ws-service-two</module>-->
+        <module>ark-se</module>
     </modules>
 
     <packaging>pom</packaging>
